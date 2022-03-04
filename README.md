@@ -16,7 +16,7 @@ Project is created with:
 * **Visual Studio 2015**
 * **Microsoft SQL Server Management Studio 2014**
 
-Language used in this project is:
+Language used in this project are:
 * **C#**
 * **Java Script**
 * **HTML,CSS,Bootstrap**
